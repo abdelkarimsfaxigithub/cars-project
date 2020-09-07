@@ -18,6 +18,6 @@ use Illuminate\Support\Facades\Route;
 //     return $request->user();
 // });
 Route::group(['namespace' => 'Api'], function(){
-    Route::get('/get/cars', 'Api/CarController@getCars')->name("cars.get.all");
-    Route::get('/update/car', 'Api/CarController@updateCar')->name("cars.update");
+    Route::get('/get/cars', 'CarController@getCars')->name("cars.get.all");
+    Route::get('/update/car', 'CarController@updateCar')->name("cars.update");
 });
