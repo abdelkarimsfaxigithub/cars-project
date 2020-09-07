@@ -1,9 +1,14 @@
 # Stock
-![Alt text](./resources/images/home.png"Optional title")
+![Alt text](./resources/images/home.png "Optional title")
+</br>
 ![Alt text](./resources/images/mark.png "Optional title")
+</br>
 ![Alt text](./resources/images/models.png "Optional title")
+</br>
 ![Alt text](./resources/images/update-mark.png "Optional title")
+</br>
 ![Alt text](./resources/images/add-model.png "Optional title")
+# Api
 ![Alt text](./resources/images/api.png "Optional title")
 
 # Install project </br>
@@ -13,7 +18,7 @@
 `php artisan migrate`</br>
 
 # Design(with better features)
--Jquery</br>
+-bootstrap</br>
 -css</br>
 # Hire Me</br>
 
